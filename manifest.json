@@ -1,0 +1,37 @@
+{
+  "manifest_version": 2,
+  "version": "1.0",
+  "name": "Eucalyptus",
+  "icons": {
+    "32": "images/icon.svg"
+  },
+  "theme": {
+    "images": {
+      "additional_backgrounds": [
+        "images/bg-001-9c6d74e14860e77ee6f8f43e824bff25.svg"
+      ]
+    },
+    "properties": {
+      "additional_backgrounds_alignment": [
+        "top"
+      ],
+      "additional_backgrounds_tiling": [
+        "repeat"
+      ]
+    },
+    "colors": {
+      "toolbar": "rgb(38, 126, 97)",
+      "toolbar_text": "rgb(209, 255, 246)",
+      "frame": "rgb(22, 75, 57)",
+      "tab_background_text": "rgb(179, 247, 158)",
+      "toolbar_field": "rgb(38, 102, 92)",
+      "toolbar_field_text": "rgb(213, 255, 246)",
+      "tab_line": "rgb(66, 227, 173)",
+      "popup": "rgb(22, 62, 53)",
+      "popup_text": "rgb(187, 255, 179)",
+      "ntp_background": "rgb(43, 150, 114)",
+      "ntp_text": "rgb(199, 252, 233)",
+      "tab_loading": "rgb(66, 227, 173)"
+    }
+  }
+}
